@@ -43,9 +43,9 @@ Windows | Linux | Adobe Premiere Pro | Git | VS Code | Postman | Pycharm
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/buildwithphemant))
+- 💼 [LinkedIn](https://www.linkedin.com/in/buildwithphemant)
 - 📧 [Email](hemantpalled@gmail.com)
-- 🌐 [Personal Website]([your-website-url](https://hemantpalled.github.io/hemant-portfolio/))
+- 🌐 [Personal Website](https://hemantpalled.github.io/hemant-portfolio/)
 
 ---
 

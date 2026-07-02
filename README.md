@@ -1,26 +1,24 @@
 # 👋 Hi there, I'm Hemant Palled
 
 📍 Bengaluru, Karnataka, India  
-💻 IT Professional | Coding | Video Editing | AI Enthusiast
+💻 IT Professional | Coding | AI Enthusiast
 
 ---
 
 ## 🛠️ What I Do
 
 - 💻 **Coding**: Building applications and tools for the AI era
-- 🎬 **Video Editing**: Adobe Premiere Pro (1080p H.264)
 - 🤖 **AI Tech**: Exploring AI-powered development and technologies
-- 📸 **Photography**: Capturing moments
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Languages & Frameworks
-Python | JavaScript | PHP | SQL | FastAPI | React | Laravel | HTML & CSS
+Python | JavaScript | PHP | PostgreSQL | FastAPI | React | Laravel | HTML & CSS
 
 ### Tools & Platforms
-Windows | Linux | Adobe Premiere Pro | Git | VS Code | Postman | Pycharm
+Ubuntu | Windows | Linux | Git | VS Code | Postman | Pycharm
 
 
 ---
@@ -36,8 +34,8 @@ Windows | Linux | Adobe Premiere Pro | Git | VS Code | Postman | Pycharm
 ## 🌱 Currently Learning
 
 - 🗣️ Fluent spoken English
-- 🚜 Sericulture & sheep farming (agricultural ventures)
-- 🏠 Home construction planning
+- 🚜 Gnerative AI
+- 🏠 Python(Flask, FastAPI) 
 
 ---
 

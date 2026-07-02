@@ -27,7 +27,7 @@ Ubuntu | Windows | Linux | Git | VS Code | Postman | Pycharm
 
 <!-- Add your top 3-5 repos here -->
 - **[Workforce Management System]** - Modern HR management platform designed to simplify workforce operations with staff scheduling, time tracking, real-time payroll automation, and digital contract management.
-- **[Portfolio]** - Custom animated portfolio for a creative agency showcasing their best work.
+- **[Portfolio]** - Custom animated portfolio for myself.
 
 ---
 

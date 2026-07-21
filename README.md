@@ -18,7 +18,7 @@
 Python | JavaScript | PHP | PostgreSQL | FastAPI | React | Laravel | HTML & CSS
 
 ### Tools & Platforms
-Ubuntu | Windows | Linux | Git | VS Code | Postman | Pycharm
+Ubuntu | Windows | Linux | Git | VS Code | Postman | Pycharm | Docker | Apache server
 
 
 ---

@@ -33,7 +33,6 @@ Ubuntu | Windows | Linux | Git | VS Code | Postman | Pycharm | Docker | Apache s
 
 ## 🌱 Currently Learning
 
-- 🗣️ Fluent spoken English
 - 🚜 Gnerative AI
 - 🏠 Python(Flask, FastAPI) 
 
